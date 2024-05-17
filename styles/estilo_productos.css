@@ -270,6 +270,58 @@ html {
     text-align: justify;
 }
 
+.body__form {
+    width: 80%;
+    margin-left: 10%;
+    border: #f0ff42 3px solid;
+    box-shadow: #379237 5px 5px 10px;
+}
+
+.form-group {
+    padding: 15px;
+    margin-left: 10%;
+}
+
+.input-field {
+    height: 40px;
+    background-color: #f0ff42;
+    box-shadow: #379237 5px 5px 10px;
+}
+
+.input-field-textbox {
+    height: 200px;
+    width: auto;
+    background-color: #f0ff42;
+    box-shadow: #379237 5px 5px 10px;
+}
+
+.radio_button {
+    padding-left: 25%;
+    padding-top: 10px;
+}
+
+.form-group-button {
+    position: relative;
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.btn-reset {
+    height: 60px;
+    width: 100px;
+    margin-left: 550px;
+    background-color: #0eac36
+    
+}
+
+.btn-submit {
+    height: 60px;
+    width: 100px;
+    margin-left: 100px;
+    background-color: #0eac36
+}
+
 /******** CARRUSEL DE IMAGENES *********/
 
 .h3__container {

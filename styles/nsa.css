@@ -263,6 +263,46 @@ html {
     padding: 10px 10px 10px 10px;
 }
 
+/*H2 - SUBTITULOS (DESTACADOS Y NOTICIAS)*/
+.h2-subtitulo {
+    text-align: left;
+    background-color: #379237;
+    color: #f0ff42;;
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 10px; 
+    text-shadow: 2px 2px #82cd47;
+    margin-top: 40px;
+}
+
+.container__label {
+    height: auto;
+    width: 80%;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.label__city {
+    align-items: center;
+    padding-left: 50%;
+    padding-top: 20px;
+}
+
+.container__label #city {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.img__sucursal {
+    width: 50% ;
+    height: 50%;
+    margin-left: 25%;
+}
+
+.container__map {
+    margin-left: 35%;
+}
 
 body,
 ul,
